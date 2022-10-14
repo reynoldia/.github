@@ -1,2 +1,2 @@
 # .github
-Community health files for the @reynoldsf organization
+Community health files for the @reynoldia organization
